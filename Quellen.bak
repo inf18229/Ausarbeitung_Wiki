@@ -1,0 +1,24 @@
+% Encoding: UTF-8
+
+@Article{,
+  author = {ubuntuusers},
+  title  = {sudo},
+  year   = {2020},
+  url    = {https://wiki.ubuntuusers.de/sudo/},
+}
+
+@Article{,
+  author = {Dustin Puryear},
+  title  = {Comparing Access Control in Windows and Linux},
+  year   = {2010},
+  url    = {https://www.networkworld.com/article/2230977/comparing-access-control-in-windows-and-linux.html},
+}
+
+@Article{,
+  author = {ubuntuusers},
+  title  = {Konfiguration von Sudo},
+  year   = {2019},
+  url    = {https://wiki.ubuntuusers.de/sudo/Konfiguration/},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
